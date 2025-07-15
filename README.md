@@ -34,10 +34,6 @@ It fetches real-time weather data and displays it in a clean GUI with emojis, te
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/weather-app-pyqt5.git
-cd weather-app-pyqt5
+
