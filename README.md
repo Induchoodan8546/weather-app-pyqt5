@@ -9,7 +9,8 @@ It fetches real-time weather data and displays it in a clean GUI with emojis, te
 
 ## 📸 Preview
 
-*(Insert a screenshot or GIF of the app here)*
+<img width="448" height="600" alt="image" src="https://github.com/user-attachments/assets/e0706e46-69a0-442a-9412-14300c61cd68" />
+
 
 ---
 
